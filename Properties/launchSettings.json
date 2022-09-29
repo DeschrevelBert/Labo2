@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Labo2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7157",
+      "launchBrowser": false
+    }
+  }
+}
